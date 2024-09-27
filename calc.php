@@ -110,6 +110,7 @@
         echo "<h3>Result: $result</h3>";
     }
     ?>
+        
 </div>
 
 </body>
